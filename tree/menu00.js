@@ -1,5 +1,5 @@
 //소스수정자 : 이청희
-  foldersTree = gFld("<span style=font-size:9pt;><b><font color=#000000>&nbsp;코스메틱 오케스트라라", "index.html")
+  foldersTree = gFld("<span style=font-size:9pt;><b><font color=#000000>&nbsp;코스메틱 오케스트라", "index.html")
 		 
 	aux1 = insFld(foldersTree, gFld("<span style=font-size:9pt;><font color=#000000>제품 정보 자료실", ""))	
 	 insDoc(foldersTree, gLnk(2, "<span style=font-size:9pt;><font color=#000000>벌크 제품 Db(화장품)", "031_Bulk_Goods.html"))
